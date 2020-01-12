@@ -1,4 +1,5 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/fyodorio/blue-elm) 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/80c0e002-e778-472d-baad-419898d38cb3/deploy-status)](https://app.netlify.com/sites/blue-elm-970e4/deploys)
 
 # Stackbit Ampersand Theme
 
